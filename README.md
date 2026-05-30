@@ -17,7 +17,7 @@ The version of the software used in the analysis:
 
 - **WES data analysis**: FastQC (v0.11.9), fastp (v0.23.4), BWA (v0.7.17-r1188), Picard (v2.27.4),  CNVkit (v0.9.10), GenVisR (v1.30.0).
 
-- **RNA-seq data analysis**: FastQC (v0.12.1), STAR (v2.7.10b), HTSeq (v0.13.5), DESeq2 (v1.24), GSVA (v2.0.7), limma (v3.62.2), survival (v3.8-3), survminer (v0.5.1) forestplot (v3.1.7), ComplexHeatmap (v2.22.0).
+- **RNA-seq data analysis**: FastQC (v0.12.1), STAR (v2.7.10b), HTSeq (v0.13.5), DESeq2 (v1.24), GSVA (v2.0.7), limma (v3.62.2), survival (v3.8-3), survminer (v0.5.1), forestplot (v3.1.7), ComplexHeatmap (v2.22.0).
 
 - **ATAC-seq and CUT&Tag data analysis**: Bowtie2 (v2.4.4), bedtools (v2.30), SEACR (v1.3), Trim Galore (v0.6.6), SAMtools (v1.13), ChIPseeker (v1.30.3).
 
