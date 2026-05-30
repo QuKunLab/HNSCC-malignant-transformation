@@ -1,6 +1,8 @@
 # HNSCC
 The scripts for article "Single-cell and Spatial Omics Reveal Dynamic Ecosystem Remodeling in HNSCC Malignant Transformation".
 
+> **Note**: Some `.ipynb` notebooks may not render directly on GitHub. You can view all notebooks at [nbviewer](https://nbviewer.org/github/QuKunLab/HNSCC-malignant-transformation/tree/main/).
+
 ---
 
 The version of the software used in the analysis:
