@@ -11,7 +11,7 @@ The version of the software used in the analysis:
 
 - **Spatial transcriptomics data analysis**: SpaceRanger(v4.0.1), Loupe Browser (v9.0.0), BSTMatrix (v2.3.r), Cell2location (v0.1.3), SPACEL (v1.1.6), SpatialDM (v0.1.0), MiXCR (v4.3.2), scPred (v1.9.2).
 
-- **mIF data analysis**: StarDist plugin (v0.5.0), QuPath (v0.5.0), opencv-python (v 4.13.0.92), tifffile (v2025.5.10).
+- **mIF data analysis**: StarDist plugin (v0.5.0), QuPath (v0.5.0), opencv-python (v4.13.0.92), tifffile (v2025.5.10).
 
 - **Spatial metabolomics data analysis**: QuPathToSCiLS plugin (v1.1), Cardinal (v3.10.0), QuPath (v0.5.0), QuASI plugin (v0.5.0). 
 
